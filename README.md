@@ -5,12 +5,14 @@
 
 # vboxapi setup:
 
-Windows:
+### Windows:
+
 ```PowerShell
 PS C:\Program Files\Oracle\VirtualBox\sdk\installer\python> python .\vboxapisetup.py install
 ```
 
-MacOS:
+### MacOS:
+
 ```bash
 export VBOX_INSTALL_PATH="/Applications/VirtualBox.app/Contents/MacOS"
 python3.11 /Applications/VirtualBox.app/Contents/MacOS/sdk/installer/python/vboxapisetup.py install

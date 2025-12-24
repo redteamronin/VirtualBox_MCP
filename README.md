@@ -1,7 +1,14 @@
+# Tested VirtualBox version:
+
+```PowerShell
+VBoxManage.exe --version
+7.2.4r170995
+```
+
 # Prerequistes:
 
 - VirtualBox
-- Run setup.py for vboxapi
+- Run vboxapisetup.py for vboxapi
 
 # vboxapi setup:
 

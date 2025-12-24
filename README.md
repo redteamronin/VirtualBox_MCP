@@ -5,6 +5,10 @@ VBoxManage.exe --version
 7.2.4r170995
 ```
 
+# Tested LLM:
+
+ibm/granite-4-h-tiny: https://huggingface.co/ibm-granite/granite-4.0-h-tiny
+
 # Prerequistes:
 
 - VirtualBox
